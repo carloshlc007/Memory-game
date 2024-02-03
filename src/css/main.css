@@ -79,7 +79,7 @@ h2{
     position: absolute;
     inset: 0;
     background: #404040;
-    opacity: 0.9;
+    /* opacity: 0.9; */
     transition: 0.5s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
